@@ -71,7 +71,7 @@
 		<Metadata name="CommonModule.Пользователи.Module" id="638a9dae-e1fa-427f-b9be-d21af30e53d6.0" configVersion="34f02410a89b684fb58555cc138891ca00000000"/>
 		<Metadata name="CommonPicture.РазделАдминистрирование" id="5f177ad1-21d0-4296-bfff-bd2f310615a5" configVersion="ef1371b7a0ad7d41a43789be83e0a0f100000000"/>
 		<Metadata name="CommonPicture.РазделАдминистрирование.Picture" id="5f177ad1-21d0-4296-bfff-bd2f310615a5.0" configVersion="5c9355e9d92d91429b1a25a74ba6e39d00000000"/>
-		<Metadata name="Configuration.УправлениеПаркомАттракционов" id="6e63b2fc-0010-4134-b53a-4a40e25f4a8f" configVersion="c97c06b707d6894297d9a59f024fd79a00000000"/>
+		<Metadata name="Configuration.УправлениеПаркомАттракционов" id="6e63b2fc-0010-4134-b53a-4a40e25f4a8f" configVersion="dff16f919bed6f48810c958f9da9343300000000"/>
 		<Metadata name="Configuration.УправлениеПаркомАттракционов.ClientApplicationInterface" id="6bf71524-e5d9-46d6-b902-e2c8cb4f10de.b" configVersion="d3f4a49b679487449bf8bcd7ee6edfce00000000"/>
 		<Metadata name="Configuration.УправлениеПаркомАттракционов.CommandInterface" id="6bf71524-e5d9-46d6-b902-e2c8cb4f10de.a" configVersion="036655d228c366409373f3f90065514f00000000"/>
 		<Metadata name="Configuration.УправлениеПаркомАттракционов.ExternalConnectionModule" id="6bf71524-e5d9-46d6-b902-e2c8cb4f10de.5" configVersion="8dab20895df3494b878040e65197af2600000000"/>
@@ -89,6 +89,23 @@
 		<Metadata name="DataProcessor.ВыгрузкаНаСайт.Form.Форма.Form" id="040a3a37-caa4-4810-bb96-76137bd088df.0" configVersion="97d884f935a80a45957af3d257d2c48b00000000"/>
 		<Metadata name="DataProcessor.ВыгрузкаНаСайт.ManagerModule" id="bc7ce2a5-e0cb-406d-9b04-32324fdd19b1.2" configVersion="b70543d1c44b0e4ea3a51168453b7b4c00000000"/>
 		<Metadata name="DataProcessor.ВыгрузкаНаСайт.ObjectModule" id="bc7ce2a5-e0cb-406d-9b04-32324fdd19b1.0" configVersion="1a20f16b2e245748a5c0c393bb85e9ef00000000"/>
+		<Metadata name="DataProcessor.КонсольЗаданий2019" id="df581eec-599a-469c-888b-ebe9e517d6f3" configVersion="a9267c479327b3498ecd0987ac96593100000000"/>
+		<Metadata name="DataProcessor.КонсольЗаданий2019.Form.ДиалогНастроекСписка" id="2dcca15d-838d-4d87-a775-0c234c0178ef" configVersion="09160b9edda93b4c8a085707a3a183c200000000"/>
+		<Metadata name="DataProcessor.КонсольЗаданий2019.Form.ДиалогНастроекСписка.Form" id="2dcca15d-838d-4d87-a775-0c234c0178ef.0" configVersion="5b04180bb9335b4ab5accdd2a66600f400000000"/>
+		<Metadata name="DataProcessor.КонсольЗаданий2019.Form.ДиалогОтбораРегламентногоЗадания" id="649c7ad0-644e-4fd5-9fad-b54f271275a1" configVersion="67ba40bcb1f86f47bdc522f409e7e90400000000"/>
+		<Metadata name="DataProcessor.КонсольЗаданий2019.Form.ДиалогОтбораРегламентногоЗадания.Form" id="649c7ad0-644e-4fd5-9fad-b54f271275a1.0" configVersion="ad9cbd72dadc88489a7ddbc736cd73b600000000"/>
+		<Metadata name="DataProcessor.КонсольЗаданий2019.Form.ДиалогОтбораФоновогоЗадания" id="a77cac0a-2eea-453d-874a-7e5989f47e3b" configVersion="f3f8d1f011654a449d4d43cbf1d36cc000000000"/>
+		<Metadata name="DataProcessor.КонсольЗаданий2019.Form.ДиалогОтбораФоновогоЗадания.Form" id="a77cac0a-2eea-453d-874a-7e5989f47e3b.0" configVersion="bc06a270e2058649b20f202b97ef4fd300000000"/>
+		<Metadata name="DataProcessor.КонсольЗаданий2019.Form.ДиалогРегламентногоЗадания" id="b809707e-48a9-42e8-bc4b-b402ce948c24" configVersion="fc3e6bb866aaae40986d87db57ce22b700000000"/>
+		<Metadata name="DataProcessor.КонсольЗаданий2019.Form.ДиалогРегламентногоЗадания.Form" id="b809707e-48a9-42e8-bc4b-b402ce948c24.0" configVersion="f1450c3f41f4ec46b16d0ddee7e8462900000000"/>
+		<Metadata name="DataProcessor.КонсольЗаданий2019.Form.ДиалогФоновогоЗадания" id="c42682f5-ccd5-4d3a-a9e7-bca70f1c0140" configVersion="1bab4819f353ea40b27599f06292729d00000000"/>
+		<Metadata name="DataProcessor.КонсольЗаданий2019.Form.ДиалогФоновогоЗадания.Form" id="c42682f5-ccd5-4d3a-a9e7-bca70f1c0140.0" configVersion="3efdaee9a3d66a478f240e7e4662dfe300000000"/>
+		<Metadata name="DataProcessor.КонсольЗаданий2019.Form.ДиалогФоновогоЗадания.Help" id="c42682f5-ccd5-4d3a-a9e7-bca70f1c0140.1" configVersion="6438b52f921159409009546c7818ca6400000000"/>
+		<Metadata name="DataProcessor.КонсольЗаданий2019.Form.Форма" id="9d8e2bfe-5582-4c9e-baa1-1fe3d4ac0464" configVersion="18f39cfa7ed51f45ba91f33cd1311ad100000000"/>
+		<Metadata name="DataProcessor.КонсольЗаданий2019.Form.Форма.Form" id="9d8e2bfe-5582-4c9e-baa1-1fe3d4ac0464.0" configVersion="854f3f6370005c4fbec521dfc64d9f4500000000"/>
+		<Metadata name="DataProcessor.КонсольЗаданий2019.Form.Форма.Help" id="9d8e2bfe-5582-4c9e-baa1-1fe3d4ac0464.1" configVersion="3aadb74d13ecbd4684f06104dd825b2600000000"/>
+		<Metadata name="DataProcessor.КонсольЗаданий2019.Help" id="df581eec-599a-469c-888b-ebe9e517d6f3.1" configVersion="c2e2bd6d63aa714a953af75fc542bc1900000000"/>
+		<Metadata name="DataProcessor.КонсольЗаданий2019.ObjectModule" id="df581eec-599a-469c-888b-ebe9e517d6f3.0" configVersion="866d4b7a2c7b7f4093f1d61dc33eec0e00000000"/>
 		<Metadata name="DataProcessor.ПереходНаНовыеВерсии" id="918eee60-2ea7-40c8-8ba9-6a653b468364" configVersion="ef0a84890fc9ee478303d3313ec9374500000000"/>
 		<Metadata name="DataProcessor.ПереходНаНовыеВерсии.Form.Форма" id="25b65d30-a4dd-4ad6-8cf9-b350f2b04864" configVersion="f4f795e88caed14d9264788b852bea6000000000"/>
 		<Metadata name="DataProcessor.ПереходНаНовыеВерсии.Form.Форма.Form" id="25b65d30-a4dd-4ad6-8cf9-b350f2b04864.0" configVersion="f563e2b89f808f46a7fa91a948ff720c00000000"/>
@@ -219,6 +236,9 @@
 		<Metadata name="Report.ПопулярныеАттракционы.ObjectModule" id="2da25afc-a766-411b-9b8b-2629b1c5a940.0" configVersion="cb9a1d4c3929524e84cde9830850488e00000000"/>
 		<Metadata name="Report.ПопулярныеАттракционы.Template.ОсновнаяСхемаКомпоновкиДанных" id="7d474144-352e-418b-b843-3682be0fb3a3" configVersion="8480efd88efd5144ba50cfcbfcf76db600000000"/>
 		<Metadata name="Report.ПопулярныеАттракционы.Template.ОсновнаяСхемаКомпоновкиДанных.Template" id="7d474144-352e-418b-b843-3682be0fb3a3.0" configVersion="30f1fe52b1e0bf489a48aefa45719d7400000000"/>
+		<Metadata name="Report.ПродажаПоБилетам" id="62c97867-6dd8-487e-a6df-5814ac75ae2b" configVersion="c51dafa5ad11de45a86ef36c9001eb4200000000"/>
+		<Metadata name="Report.ПродажаПоБилетам.Template.ОсновнаяСхемаКомпоновкиДанных" id="00c1a498-31ca-4f65-b134-e0f5e002bf2a" configVersion="8eaa8bb234238946999cfc50eb8d157800000000"/>
+		<Metadata name="Report.ПродажаПоБилетам.Template.ОсновнаяСхемаКомпоновкиДанных.Template" id="00c1a498-31ca-4f65-b134-e0f5e002bf2a.0" configVersion="c3053a85857db7419b5b4a013842b80100000000"/>
 		<Metadata name="Report.ПродажиПоАттракционам" id="6fed52ff-4b10-4f7c-a6ba-741ceeb65dbd" configVersion="b5c31b3db110974985d8c9d30c936f9400000000"/>
 		<Metadata name="Report.ПродажиПоАттракционам.ManagerModule" id="6fed52ff-4b10-4f7c-a6ba-741ceeb65dbd.2" configVersion="338f3ec6df7a404487b9a0fd5636bc1b00000000"/>
 		<Metadata name="Report.ПродажиПоАттракционам.ObjectModule" id="6fed52ff-4b10-4f7c-a6ba-741ceeb65dbd.0" configVersion="c5dcb6e0402dba44817d47ff0056bf3f00000000"/>
@@ -229,14 +249,14 @@
 		<Metadata name="Report.СтатистикаПосещений.ObjectModule" id="f2adc803-3304-4fd3-abdb-cddbebafd36d.0" configVersion="7c1d183632e6c84987538f362688163300000000"/>
 		<Metadata name="Report.СтатистикаПосещений.Template.ОсновнаяСхемаКомпоновкиДанных" id="42ab62be-9467-480f-a973-b43b0b5aa771" configVersion="9ec45646007c3643a9c7a7988117a22c00000000"/>
 		<Metadata name="Report.СтатистикаПосещений.Template.ОсновнаяСхемаКомпоновкиДанных.Template" id="42ab62be-9467-480f-a973-b43b0b5aa771.0" configVersion="7244b342e1779641bb7ad1861f19988b00000000"/>
-		<Metadata name="Role.Кассир" id="0992b187-11bf-4902-a4c3-5062fa636db7" configVersion="ea4e1c11742d344883b9211c2ddd263000000000"/>
-		<Metadata name="Role.Кассир.Rights" id="0992b187-11bf-4902-a4c3-5062fa636db7.0" configVersion="e86ce9246661e44e9abe4481198b61a400000000"/>
+		<Metadata name="Role.Кассир" id="0992b187-11bf-4902-a4c3-5062fa636db7" configVersion="77106e7a94f37546836e4fda6e35672900000000"/>
+		<Metadata name="Role.Кассир.Rights" id="0992b187-11bf-4902-a4c3-5062fa636db7.0" configVersion="8536d362ae597b4cbf3d309b02ef490000000000"/>
 		<Metadata name="Role.ОператорАттракциона" id="2240ea9e-8a60-4972-9fb1-4c812e507927" configVersion="dec62d075eb19a49b38e8db3c8b51a5900000000"/>
 		<Metadata name="Role.ОператорАттракциона.Rights" id="2240ea9e-8a60-4972-9fb1-4c812e507927.0" configVersion="86daa7302390c64da0c70caa8cc19a1e00000000"/>
 		<Metadata name="Role.ПолныеПрава" id="38c353f8-045a-4256-92c8-387df2bcee36" configVersion="519f489b2a30304f91b343dd714e935300000000"/>
 		<Metadata name="Role.ПолныеПрава.Rights" id="38c353f8-045a-4256-92c8-387df2bcee36.0" configVersion="3bcce917c304494d97273227835f15cf00000000"/>
 		<Metadata name="SessionParameter.ТекущийПользователь" id="0a38846f-5a3f-4bb0-b1c3-435534574ede" configVersion="0298fee98ded2a4ea842ca3648b6a79a00000000"/>
-		<Metadata name="Subsystem.Администрирование" id="4bb43442-3bed-4682-b0e8-81f81f0f9d0e" configVersion="c36bc11b7e4b4643a3a35b614fcb1ebc00000000"/>
+		<Metadata name="Subsystem.Администрирование" id="4bb43442-3bed-4682-b0e8-81f81f0f9d0e" configVersion="d44b6660bb2a0a45a0d7ac179950cdba00000000"/>
 		<Metadata name="Subsystem.Администрирование.CommandInterface" id="4bb43442-3bed-4682-b0e8-81f81f0f9d0e.1" configVersion="b2fac0d459dc7547b40e51141e8c1be800000000"/>
 		<Metadata name="Subsystem.Диснейленд" id="fec12270-3fea-4a63-9025-3c9f884ad4ae" configVersion="8765750fff27da4da2e084bbf047866700000000"/>
 		<Metadata name="Subsystem.Диснейленд.CommandInterface" id="fec12270-3fea-4a63-9025-3c9f884ad4ae.1" configVersion="5b9e7822b28b27468e6df78f538f393f00000000"/>
@@ -244,7 +264,7 @@
 		<Metadata name="Subsystem.Персонал.CommandInterface" id="6a8e433d-4a84-49c1-9401-7ca890fef73d.1" configVersion="b10b677f55c1e94e89cf275a0fa4eb1c00000000"/>
 		<Metadata name="Subsystem.Посещения" id="6156cd9b-3a70-4e32-8164-466cfa955073" configVersion="77c29866d24f934ea69407da4a33802600000000"/>
 		<Metadata name="Subsystem.Посещения.CommandInterface" id="6156cd9b-3a70-4e32-8164-466cfa955073.1" configVersion="5f1c23557329e742a7b823d7bc4061de00000000"/>
-		<Metadata name="Subsystem.Продажи" id="5f226892-3292-4540-95f7-12580408ea36" configVersion="9e58a038369e42419c6edbcd6458f1c200000000"/>
+		<Metadata name="Subsystem.Продажи" id="5f226892-3292-4540-95f7-12580408ea36" configVersion="08d8dd33ba88344a889aa95879587fca00000000"/>
 		<Metadata name="Subsystem.Продажи.CommandInterface" id="5f226892-3292-4540-95f7-12580408ea36.1" configVersion="ce1f1e50ea3fd240950548048faeaa9f00000000"/>
 		<Metadata name="Subsystem.Справочники" id="a9801829-c45b-4a69-a6cc-bbcd03aa0cbf" configVersion="347c243262c9614da687e8500070616900000000"/>
 	</ConfigVersions>

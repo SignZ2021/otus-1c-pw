@@ -25,6 +25,7 @@
 				<xr:Item xsi:type="xr:MDObjectRef">Role.ПолныеПрава</xr:Item>
 				<xr:Item xsi:type="xr:MDObjectRef">SessionParameter.ТекущийПользователь</xr:Item>
 				<xr:Item xsi:type="xr:MDObjectRef">CommonModule.Пользователи</xr:Item>
+				<xr:Item xsi:type="xr:MDObjectRef">DataProcessor.КонсольЗаданий2019</xr:Item>
 			</Content>
 		</Properties>
 		<ChildObjects/>

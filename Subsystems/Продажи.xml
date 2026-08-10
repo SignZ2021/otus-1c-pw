@@ -35,6 +35,7 @@
 				<xr:Item xsi:type="xr:MDObjectRef">AccumulationRegister.Продажи</xr:Item>
 				<xr:Item xsi:type="xr:MDObjectRef">AccumulationRegister.АктивныеПосещения</xr:Item>
 				<xr:Item xsi:type="xr:MDObjectRef">Role.Кассир</xr:Item>
+				<xr:Item xsi:type="xr:MDObjectRef">Report.ПродажаПоБилетам</xr:Item>
 			</Content>
 		</Properties>
 		<ChildObjects/>
