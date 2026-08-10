@@ -39,7 +39,7 @@
 					<v8:content>Управление парком аттракционов</v8:content>
 				</v8:item>
 			</Synonym>
-			<Comment/>
+			<Comment>07.08.2026</Comment>
 			<NamePrefix/>
 			<ConfigurationExtensionCompatibilityMode>Version8_3_27</ConfigurationExtensionCompatibilityMode>
 			<DefaultRunMode>ManagedApplication</DefaultRunMode>

@@ -71,7 +71,7 @@
 		<Metadata name="CommonModule.Пользователи.Module" id="638a9dae-e1fa-427f-b9be-d21af30e53d6.0" configVersion="34f02410a89b684fb58555cc138891ca00000000"/>
 		<Metadata name="CommonPicture.РазделАдминистрирование" id="5f177ad1-21d0-4296-bfff-bd2f310615a5" configVersion="ef1371b7a0ad7d41a43789be83e0a0f100000000"/>
 		<Metadata name="CommonPicture.РазделАдминистрирование.Picture" id="5f177ad1-21d0-4296-bfff-bd2f310615a5.0" configVersion="5c9355e9d92d91429b1a25a74ba6e39d00000000"/>
-		<Metadata name="Configuration.УправлениеПаркомАттракционов" id="6e63b2fc-0010-4134-b53a-4a40e25f4a8f" configVersion="54013e0289c98c42a962c0ff62a6ee2500000000"/>
+		<Metadata name="Configuration.УправлениеПаркомАттракционов" id="6e63b2fc-0010-4134-b53a-4a40e25f4a8f" configVersion="c97c06b707d6894297d9a59f024fd79a00000000"/>
 		<Metadata name="Configuration.УправлениеПаркомАттракционов.ClientApplicationInterface" id="6bf71524-e5d9-46d6-b902-e2c8cb4f10de.b" configVersion="d3f4a49b679487449bf8bcd7ee6edfce00000000"/>
 		<Metadata name="Configuration.УправлениеПаркомАттракционов.CommandInterface" id="6bf71524-e5d9-46d6-b902-e2c8cb4f10de.a" configVersion="036655d228c366409373f3f90065514f00000000"/>
 		<Metadata name="Configuration.УправлениеПаркомАттракционов.ExternalConnectionModule" id="6bf71524-e5d9-46d6-b902-e2c8cb4f10de.5" configVersion="8dab20895df3494b878040e65197af2600000000"/>
@@ -124,7 +124,7 @@
 		<Metadata name="Document.ПосещениеАттракциона.Form.ФормаДокумента.Form" id="b3c67b38-94de-4dbd-b0fe-fa402db89c2d.0" configVersion="da3700f11db162429ccce2bd2326748700000000"/>
 		<Metadata name="Document.ПосещениеАттракциона.ManagerModule" id="a2ef65b9-6750-4449-81a6-0d2c64f8dde1.2" configVersion="823ecc5901eab743a0e6184f0471934500000000"/>
 		<Metadata name="Document.ПосещениеАттракциона.ObjectModule" id="a2ef65b9-6750-4449-81a6-0d2c64f8dde1.0" configVersion="5a09d250cb4f714098fd1d9e068a997200000000"/>
-		<Metadata name="Document.ПродажаБилета" id="beb55396-ebe4-4989-861f-81659c6d918c" configVersion="4911fa312f88dc45945a79f8d022088500000000">
+		<Metadata name="Document.ПродажаБилета" id="beb55396-ebe4-4989-861f-81659c6d918c" configVersion="59f7779c6f424248a9f1d7ca22329c5800000000">
 			<Metadata name="Document.ПродажаБилета.Attribute.УдалитьЦена" id="06b40e07-d0bf-4462-b79b-3d4de31d99cc"/>
 			<Metadata name="Document.ПродажаБилета.Attribute.Комментарий" id="0aa1ecb2-b5f0-4b72-94ee-3601b7013ec5"/>
 			<Metadata name="Document.ПродажаБилета.Command.Билет" id="31c1aae3-e960-4257-b4dd-a64557b0ad53"/>
@@ -140,10 +140,10 @@
 			<Metadata name="Document.ПродажаБилета.TabularSection.ПозицииПродажи.Attribute.Номенклатура" id="d507cd09-7ae0-4e2a-bc77-e7b71c74c3c5"/>
 		</Metadata>
 		<Metadata name="Document.ПродажаБилета.Command.Билет.CommandModule" id="31c1aae3-e960-4257-b4dd-a64557b0ad53.2" configVersion="89739083cddab74cb79dfc30e2f4be7e00000000"/>
-		<Metadata name="Document.ПродажаБилета.Form.ФормаДокумента" id="2477be09-d6de-46e2-986a-bad28ed1ad4b" configVersion="2ab8cdf1fed57a4fac417a55f8bf265e00000000"/>
-		<Metadata name="Document.ПродажаБилета.Form.ФормаДокумента.Form" id="2477be09-d6de-46e2-986a-bad28ed1ad4b.0" configVersion="7f9c9c95a3d18f4a81ba414bbfd4d7cb00000000"/>
-		<Metadata name="Document.ПродажаБилета.Form.ФормаСписка" id="8f3d4a03-4698-4805-a3d1-738b18caf5a9" configVersion="0b3da12295c45943b149e6673641db8600000000"/>
-		<Metadata name="Document.ПродажаБилета.Form.ФормаСписка.Form" id="8f3d4a03-4698-4805-a3d1-738b18caf5a9.0" configVersion="a999b2c76662244ba3a4edf65608186b00000000"/>
+		<Metadata name="Document.ПродажаБилета.Form.ФормаДокумента" id="2477be09-d6de-46e2-986a-bad28ed1ad4b" configVersion="5fef010e259be142a379e70e2dcbe7d700000000"/>
+		<Metadata name="Document.ПродажаБилета.Form.ФормаДокумента.Form" id="2477be09-d6de-46e2-986a-bad28ed1ad4b.0" configVersion="a559957748f9ce45bf2e01b4db3e4f1a00000000"/>
+		<Metadata name="Document.ПродажаБилета.Form.ФормаСписка" id="8f3d4a03-4698-4805-a3d1-738b18caf5a9" configVersion="93c7630e15d30848b7ef61adb0f8ca6b00000000"/>
+		<Metadata name="Document.ПродажаБилета.Form.ФормаСписка.Form" id="8f3d4a03-4698-4805-a3d1-738b18caf5a9.0" configVersion="94cb39869d2c88408b282eaa5eebaeb700000000"/>
 		<Metadata name="Document.ПродажаБилета.ManagerModule" id="beb55396-ebe4-4989-861f-81659c6d918c.2" configVersion="df3c6781b69e5c45a6c3d07ca0103d8c00000000"/>
 		<Metadata name="Document.ПродажаБилета.ObjectModule" id="beb55396-ebe4-4989-861f-81659c6d918c.0" configVersion="fa25b09cfbca0b47858b4310470be1f400000000"/>
 		<Metadata name="Document.ПродажаБилета.Template.Билет" id="e505992e-e07e-4a1b-8d5d-965da73e5864" configVersion="582550942e280a419fa1c1c75a2a3e6a00000000"/>
