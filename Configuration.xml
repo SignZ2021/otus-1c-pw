@@ -39,7 +39,7 @@
 					<v8:content>Управление парком аттракционов</v8:content>
 				</v8:item>
 			</Synonym>
-			<Comment/>
+			<Comment>07.08.2026</Comment>
 			<NamePrefix/>
 			<ConfigurationExtensionCompatibilityMode>Version8_3_27</ConfigurationExtensionCompatibilityMode>
 			<DefaultRunMode>ManagedApplication</DefaultRunMode>
@@ -292,10 +292,12 @@
 			<Report>ПопулярныеАттракционы</Report>
 			<Report>ПродажиПоАттракционам</Report>
 			<Report>СтатистикаПосещений</Report>
+			<Report>ПродажаПоБилетам</Report>
 			<DataProcessor>ВыгрузкаНаСайт</DataProcessor>
 			<DataProcessor>ПереходНаНовыеВерсии</DataProcessor>
 			<DataProcessor>ПланированиеОтпусков</DataProcessor>
 			<DataProcessor>РабочееМестоКассира</DataProcessor>
+			<DataProcessor>КонсольЗаданий2019</DataProcessor>
 			<InformationRegister>АктуальнаяШкалаБонуснойПрограммы</InformationRegister>
 			<InformationRegister>ПлановыеОтсутствия</InformationRegister>
 			<InformationRegister>ЦеныНоменклатуры</InformationRegister>
