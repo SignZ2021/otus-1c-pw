@@ -1,10 +1,10 @@
 # Проектная работа
 
 ## Оглавление
-[1. Описание проекта](https://github.com/SignZ2021/otus-1c-pw/readme.md#Описание-проекта)
+[1. Описание проекта](https://github.com/SignZ2021/otus-1c-pw/tree/Master/readme.md#Описание-проекта)
 
 
 ### Описание проекта
 Проектная работа по курсу "Разработчик 1С. Продвинутый уровень" (OTUS).
 
-:arrow_up:[к оглавлению](https://github.com/SignZ2021/otus-1c-pw/readme.md#Оглавление)
+:arrow_up:[к оглавлению](https://github.com/SignZ2021/otus-1c-pw/tree/Masterreadme.md#Оглавление)
