@@ -7,4 +7,4 @@
 ### Описание проекта
 Проектная работа по курсу "Разработчик 1С. Продвинутый уровень" (OTUS).
 
-:arrow_up:[к оглавлению](https://github.com/SignZ2021/otus-1c-pw/tree/Masterreadme.md#Оглавление)
+:arrow_up:[к оглавлению](https://github.com/SignZ2021/otus-1c-pw/tree/Master/readme.md#Оглавление)
