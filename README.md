@@ -18,4 +18,4 @@ _2) Добавлена новая обработка для работы с ре
 
 Поставленные задачи выполнены. Доработанная конфигурация выгружена в текущую ветку разработок.
 
-:arrow_up:[к оглавлению](https://github.com/SignZ2021/otus-1c-pw/tree/Master)
+:arrow_up:[к ветке Master](https://github.com/SignZ2021/otus-1c-pw/tree/Master)
