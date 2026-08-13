@@ -14,4 +14,4 @@ _2) Программная доработка визуализации спис�
 
 Поставленная задача выполнена. Доработанная конфигурация выгружена в текущую ветку разработок.
 
-:arrow_up:[к оглавлению](https://github.com/SignZ2021/otus-1c-pw/tree/Master)
+:arrow_up:[к ветке Master](https://github.com/SignZ2021/otus-1c-pw/tree/Master)
